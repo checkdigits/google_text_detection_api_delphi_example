@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/23 14:06:58.000.898,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/15 08:40:46.000.123,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/15 08:56:23.000.557,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/15 12:02:53.000.135,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/16 15:59:16.000.929,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 05:29:14.000.323,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 05:29:52.000.849,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 05:31:48.000.330,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 08:25:20.000.374,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 17:30:56.000.506,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/23 08:00:31.000.102,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/23 08:05:20.000.194,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/25 15:46:31.000.354,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/25 16:04:44.000.475,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/19 20:20:23.000.530,=C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/19 20:21:54.000.588,C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\victo\OneDrive\Desktop\DelphiGoolgeVision\DelphiGloogleLabelDetectAPI\Unit1.pas</Transaction>
+    <Transaction>2021/04/19 20:21:54.000.588,C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\victo\OneDrive\Desktop\DelphiGoolgeVision\DelphiGloogleLabelDetectAPI\Unit1.dfm</Transaction>
+    <Transaction>2021/04/19 20:22:09.000.718,C:\Users\victo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\victo\OneDrive\Desktop\DelphiGoolgeVision\DelphiGloogleLabelDetectAPI\DelphiGoogleLabelDetectAPI.dproj</Transaction>
+    <Transaction>2021/05/19 19:39:14.000.459,C:\Users\victo\OneDrive\Desktop\DelphiGloogleObjectLocalizationAPI\DelphiGoogleObjectLocalizationAPI.dproj=C:\Users\victo\OneDrive\Desktop\DelphiGloogleObjectLocalizationAPI\DelphiGoogleLabelDetectAPI.dproj</Transaction>
+    <Transaction>2021/05/19 20:35:46.000.204,C:\Users\victo\OneDrive\Desktop\DelphiGloogleLogoDetectionAPI\DelphiGoogleObjectLocalizationAPI.dproj=C:\Users\victo\OneDrive\Desktop\DelphiGloogleLogoDetectionAPI\DelphiGoogleLogoDetectionAPI.dproj</Transaction>
+    <Transaction>2021/06/05 10:34:31.063,C:\Users\victo\OneDrive\Desktop\DelphiGloogleTextDetectionAPI\DelphiGoogleTextDetectionAPI.dproj=C:\Users\victo\OneDrive\Desktop\DelphiGloogleTextDetectionAPI\DelphiGoogleLogoDetectionAPI.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
